@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "Practica1",
+        "Practica2",
+        "Practica3",
+        "Practica4"
+    ],
+
+    "java.project.referencedLibraries": [
+        "lib/*.jar",
+        "lib/HibernateLibs/*.jar"
+    ]
+}
